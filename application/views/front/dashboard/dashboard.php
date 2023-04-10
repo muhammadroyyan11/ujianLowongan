@@ -15,24 +15,24 @@
 			<div class="row">
 				<div class="col-md-4 p-b-30">
 					<b>
-						<h3 class="m-text5 t-center">Kedai Kopi Koopen</h3>
+						<h5 class="m-text5 t-center">Sejarah Perusahaan</h5>
 					</b><br>
-					<p align="left">Nama toko ini diambil dari bahasa Belanda “Koopen” yang artinya membeli. Alasan pemilik toko memberi nama dengan bahasa Belanda, karena Malang memiliki kaitan sejarah yang erat dengan Belanda pada masanya. Bahkan sampai saat ini banyak pengunjung dari negeri Belanda yang tertarik untuk merasakan kenikmatan kopi lokal sambil menikmati keindahan Kota Malang.</p><br>
-					<p align="left">Selain itu, Anda dapat memilih sendiri biji kopi yang telah disusun dalam toples ketika akan memesan. Harga kopi disini sangat terjangkau. Mulai dari Rp10.000,00 saja, Anda dapat menikmati seduhan kopi dengan nuansa heritage.</p>
+					<p align="left">PT Tjakrindo Mas selalu berusaha untuk memenuhi kebutuhan dan memberikan kepuasan kepada pelanggan dengan produk berkualitas baik dan pengiriman tepat waktu. Bisnis kami yang cepat dan stabil tumbuh karena pengamatan dan inovasi manajemen dalam mengawasi langkah-langkah strategis untuk menghadapi peningkatan kualitas lokal dan produk yang mempengaruhi kepuasan pelanggan.
+					</p><br>
 				</div>
 				<div class="col-md-4 p-b-30">
 					<b>
-						<h3 class="m-text5 t-center">Kedai Kopi Koopen</h3>
+						<h3 class="m-text5 t-center">Visi</h3>
 					</b><br>
-					<p align="left">Nama toko ini diambil dari bahasa Belanda “Koopen” yang artinya membeli. Alasan pemilik toko memberi nama dengan bahasa Belanda, karena Malang memiliki kaitan sejarah yang erat dengan Belanda pada masanya. Bahkan sampai saat ini banyak pengunjung dari negeri Belanda yang tertarik untuk merasakan kenikmatan kopi lokal sambil menikmati keindahan Kota Malang.</p><br>
-					<p align="left">Selain itu, Anda dapat memilih sendiri biji kopi yang telah disusun dalam toples ketika akan memesan. Harga kopi disini sangat terjangkau. Mulai dari Rp10.000,00 saja, Anda dapat menikmati seduhan kopi dengan nuansa heritage.</p>
+					<p align="left">Berorientasi pada kepuasan pelanggan baik di dalam maupun di luar negeri, dengan menyediakan beragam produk sesuai kebutuhan, yang berkualitas dan bernilai tambah dengan harga bersaing serta pengiriman tepat waktu.
+					</p><br>
 				</div>
 				<div class="col-md-4 p-b-30">
 					<b>
-						<h3 class="m-text5 t-center">Kedai Kopi Koopen</h3>
+						<h3 class="m-text5 t-center">Misi</h3>
 					</b><br>
-					<p align="left">Nama toko ini diambil dari bahasa Belanda “Koopen” yang artinya membeli. Alasan pemilik toko memberi nama dengan bahasa Belanda, karena Malang memiliki kaitan sejarah yang erat dengan Belanda pada masanya. Bahkan sampai saat ini banyak pengunjung dari negeri Belanda yang tertarik untuk merasakan kenikmatan kopi lokal sambil menikmati keindahan Kota Malang.</p><br>
-					<p align="left">Selain itu, Anda dapat memilih sendiri biji kopi yang telah disusun dalam toples ketika akan memesan. Harga kopi disini sangat terjangkau. Mulai dari Rp10.000,00 saja, Anda dapat menikmati seduhan kopi dengan nuansa heritage.</p>
+					<p align="left">Melalui kepemimpinan, inovasi, fokus dan kerjasama tim, untuk meningkatkan nilai kepada pelanggan, karyawan dan pemegang saham kami.
+					</p><br>
 				</div>
 			</div>
 		</div>
@@ -47,7 +47,7 @@
 							<span class="full-time">Full Time</span>
 						</div>
 						<div class="job-instructor-thumb text-center">
-							<img src="<?= base_url()?>assets/img/logo.png" alt="" style="max-width: 8rem">
+							<img src="<?= base_url() ?>assets/img/logo.png" alt="" style="max-width: 8rem">
 						</div>
 						<div class="job-instructor-content">
 							<h4 class="instructor-title"><a href="https://jobseeker.id/karir/view/1661765819-enreach-behavioral-services-admin-1661766387.html">Admin</a></h4>
@@ -77,7 +77,7 @@
 							<span class="full-time">Full Time</span>
 						</div>
 						<div class="job-instructor-thumb text-center">
-							<img src="<?= base_url()?>assets/img/logo.png" alt="" style="max-width: 8rem">
+							<img src="<?= base_url() ?>assets/img/logo.png" alt="" style="max-width: 8rem">
 						</div>
 						<div class="job-instructor-content">
 							<h4 class="instructor-title"><a href="https://jobseeker.id/karir/view/1661765819-enreach-behavioral-services-admin-1661766387.html">Admin</a></h4>
@@ -107,7 +107,7 @@
 							<span class="full-time">Full Time</span>
 						</div>
 						<div class="job-instructor-thumb text-center">
-							<img src="<?= base_url()?>assets/img/logo.png" alt="" style="max-width: 8rem">
+							<img src="<?= base_url() ?>assets/img/logo.png" alt="" style="max-width: 8rem">
 						</div>
 						<div class="job-instructor-content">
 							<h4 class="instructor-title"><a href="https://jobseeker.id/karir/view/1661765819-enreach-behavioral-services-admin-1661766387.html">Admin</a></h4>
@@ -131,10 +131,10 @@
 						</ul>
 					</div>
 				</div>
-				
+
 			</div>
 		</div>
 	</section>
 
-	
+
 </section>

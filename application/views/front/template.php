@@ -54,23 +54,7 @@
         <!-- Header desktop -->
         <div class="container-menu-header">
             <div class="topbar">
-                <!-- <div class="topbar-social">
-                    <a href="#" class="topbar-social-item fa fa-facebook"></a>
-                    <a href="#" class="topbar-social-item fa fa-instagram"></a>
-                    <a href="#" class="topbar-social-item fa fa-pinterest-p"></a>
-                    <a href="#" class="topbar-social-item fa fa-snapchat-ghost"></a>
-                    <a href="#" class="topbar-social-item fa fa-youtube-play"></a>
-                </div>
 
-                <span class="topbar-child1">
-                    KOPI DARI MALANG
-                </span>
-
-                <div class="topbar-child2">
-                    <span class="topbar-email">
-                        info@kopikoopen.com
-                    </span>
-                </div> -->
             </div>
 
             <div class="wrap_header">
@@ -80,17 +64,17 @@
                 </a>
 
                 <!-- Menu -->
-                <div class="wrap_menu">
+                <div class="wrap_menu pull-left">
                     <nav class="menu">
                         <ul class="main_menu">
                             <li>
-                                <a href="<?= site_url('home') ?>">Home</a>
+                                <a href="<?= site_url('home') ?>"><b>Register</b></a>
                             </li>
 
                             <li>
-                                <a href="<?= site_url('shop') ?>">Shop</a>
+                                <a href="<?= site_url('shop') ?>"><b>Login</b></a>
                             </li>
-
+                            <!-- 
                             <li>
                                 <a href="<?= site_url('event') ?>">New Event</a>
                             </li>
@@ -109,7 +93,7 @@
 
                             <li>
                                 <a href="<?= site_url('contact') ?>">Contact</a>
-                            </li>
+                            </li> -->
                         </ul>
                     </nav>
                 </div>
@@ -139,54 +123,13 @@
         <div class="wrap-side-menu">
             <nav class="side-menu">
                 <ul class="main-menu">
-                    <li class="item-topbar-mobile p-l-20 p-t-8 p-b-8">
-                        <span class="topbar-child1">
-                            Free shipping for standard order over $100
-                        </span>
-                    </li>
 
-                    <li class="item-topbar-mobile p-l-20 p-t-8 p-b-8">
-                        <div class="topbar-child2-mobile">
-                            <span class="topbar-email">
-                                fashe@example.com
-                            </span>
-
-
-                        </div>
-                    </li>
-
-                    <li class="item-topbar-mobile p-l-10">
-                        <div class="topbar-social-mobile">
-                            <a href="#" class="topbar-social-item fa fa-facebook"></a>
-                            <a href="#" class="topbar-social-item fa fa-instagram"></a>
-                            <a href="#" class="topbar-social-item fa fa-pinterest-p"></a>
-                            <a href="#" class="topbar-social-item fa fa-snapchat-ghost"></a>
-                            <a href="#" class="topbar-social-item fa fa-youtube-play"></a>
-                        </div>
+                    <li class="item-menu-mobile">
+                        <a href="<?= site_url('home') ?>"><b>Register</b></a>
                     </li>
 
                     <li class="item-menu-mobile">
-                        <a href="<?= site_url('home') ?>">Home</a>
-                    </li>
-
-                    <li class="item-menu-mobile">
-                        <a href="<?= site_url('shop') ?>">Shop</a>
-                    </li>
-
-                    <li class="item-menu-mobile">
-                        <a href="<?= site_url('outlet') ?>">Outlet</a>
-                    </li>
-
-                    <li class="item-menu-mobile">
-                        <a href="<?= site_url('blog') ?>">Blog</a>
-                    </li>
-
-                    <li class="item-menu-mobile">
-                        <a href="<?= site_url('about') ?>">About</a>
-                    </li>
-
-                    <li class="item-menu-mobile">
-                        <a href="<?= site_url('contact') ?>">contact</a>
+                        <a href="<?= site_url('home') ?>"><b>Login</b></a>
                     </li>
                 </ul>
             </nav>
