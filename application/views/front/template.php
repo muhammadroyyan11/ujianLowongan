@@ -41,8 +41,8 @@
     <link rel="stylesheet" type="text/css" href="<?= base_url() ?>assets/frontend/client/css/util.css">
     <link rel="stylesheet" type="text/css" href="<?= base_url() ?>assets/frontend/client/css/main.css">
     <link rel="stylesheet" type="text/css" href="<?= base_url() ?>assets/frontend/assets/frontend/css/share.css">
-    <link rel="stylesheet" href="<?= base_url()?>assets/frontend/css/bootstrap.min.css">
-    <link rel="stylesheet" href="<?= base_url()?>assets/frontend/css/social-button.css">
+    <link rel="stylesheet" href="<?= base_url() ?>assets/frontend/css/bootstrap.min.css">
+    <link rel="stylesheet" href="<?= base_url() ?>assets/frontend/css/social-button.css">
     <!-- <link href="assets/frontend/css/font-awesome.min.css" rel="stylesheet"> -->
     <!--===============================================================================================-->
 </head>
@@ -76,7 +76,7 @@
             <div class="wrap_header">
                 <!-- Logo -->
                 <a href="<?= site_url('home') ?>" class="logo">
-                    <img src="<?= base_url() ?>assets/frontend/client/images/icons/koopen.png" alt="IMG-LOGO">
+                    <img src="<?= base_url() ?>assets/img/logo_nav.png" alt="IMG-LOGO">
                 </a>
 
                 <!-- Menu -->
@@ -122,7 +122,7 @@
         <div class="wrap_header_mobile">
             <!-- Logo moblie -->
             <a href="<?= site_url('home') ?>" class="logo-mobile">
-                <img src="<?= base_url() ?>assets/frontend/client/images/icons/koopen.png" alt="IMG-LOGO">
+                <img src="<?= base_url() ?>assets/img/logo_nav.png" alt="IMG-LOGO">
             </a>
 
             <!-- Button show menu -->
@@ -247,11 +247,11 @@
 
         </div> -->
 
-        <div class="t-center p-l-15 p-r-15">
-            <div class="t-center s-text8 p-t-20">
-                Copyright © 2022 All rights reserved.
-            </div>
+    <div class="t-center p-l-15 p-r-15">
+        <div class="t-center s-text8 p-t-20">
+            Copyright © 2022 All rights reserved.
         </div>
+    </div>
     </footer>
 
 

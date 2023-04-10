@@ -9,3 +9,25 @@ NOTE:
 ------
 PLACE HERE YOUR OWN SCSS CODES AND IF NEEDED, OVERRIDE THE STYLES FROM THE OTHER STYLESHEETS.
 WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BETTER LIKE THIS.  */
+
+
+.job-instructor-layout {
+    background: #fff;
+    position: relative;
+    display: block;
+    border-radius: 8px;
+    margin-top: 30px;
+    box-shadow: 0 0 20px 0 rgba(62,28,131,0.1);
+    -webkit-box-shadow: 0 0 20px 0 rgba(62,28,131,0.1);
+    -moz-box-shadow: 0 0 20px 0 rgba(62,28,131,0.1)
+}
+
+.job-instructor-layout .brows-job-type span {
+    position: absolute;
+    padding: 4px 15px;
+    top: 30px;
+    right: 10px;
+    line-height: 1.4;
+    font-size: 12px;
+    border-radius: 2px 0 0 2px;
+}
