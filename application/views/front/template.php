@@ -7,12 +7,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <meta http-equiv="content-language" content="id-id">
-    <meta name="description" content="Kedai Kopi Koopen Kedai Kopi Koopen Kedai Kopi Koopen Kedai Kopi Koopen Kedai Kopi Koopen Kedai Kopi Koopen Kedai Kopi Koopen Kedai Kopi Koopen Kedai Kopi Koopen Kedai Kopi Koopen Kedai Kopi Koopen Kedai Kopi Koopen Kedai Kopi Koopen ">
-
-    <meta name="keyword" content="toko kopi koopen, kopi koopen, Kedai kopi koopen, koopen malang">
 
     <!--===============================================================================================-->
-    <link rel="icon" type="image/png" href="<?= base_url() ?>assets/frontend/client/images/icons/koopen.png" />
+    <link rel="shortcut icon" href="<?= base_url() ?>assets/img/logo.png" type="image/x-icon" />
     <!--===============================================================================================-->
     <link rel="stylesheet" type="text/css" href="<?= base_url() ?>assets/frontend/client/vendor/bootstrap/css/bootstrap.min.css">
     <!--===============================================================================================-->
