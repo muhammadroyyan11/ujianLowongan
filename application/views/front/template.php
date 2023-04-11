@@ -186,12 +186,12 @@
             </div>
 
         </div> -->
-
+<!-- 
     <div class="t-center p-l-15 p-r-15">
         <div class="t-center s-text8 p-t-20">
-            Copyright © 2022 All rights reserved.
+            Copyright © 2023 All rights reserved.
         </div>
-    </div>
+    </div> -->
     </footer>
 
 
