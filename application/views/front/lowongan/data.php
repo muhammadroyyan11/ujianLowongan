@@ -63,7 +63,7 @@
 
             <div class="form contact-form">
                 <div class="bo4 of-hidden size15 m-b-20">
-                    <input class="sizefull s-text7 p-l-22 p-r-22" type="text" name="name" placeholder="Ketikkan Lowongan yang diinginkan">
+                    <input class="sizefull s-text7 p-l-22 p-r-22 border border-dark" type="text" name="name" placeholder="Ketikkan Lowongan yang diinginkan">
                 </div>
             </div>
 
